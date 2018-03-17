@@ -6,4 +6,4 @@
 	url = https://github.com/ucb-bar/testchipip.git
 [submodule "boom"]
 	path = boom
-	url = https://github.com/ucb-bar/riscv-boom.git
+	url = https://github.com/klu97/riscv-boom.git
